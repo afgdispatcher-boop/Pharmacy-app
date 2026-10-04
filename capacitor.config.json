@@ -1,0 +1,9 @@
+{
+  "appId": "com.pharmacy.app",
+  "appName": "Pharmacy",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "backgroundColor": "#0f766e"
+}
